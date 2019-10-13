@@ -6,8 +6,8 @@ for i in range(0,n):
  if stud[1]=='P':
      list.append(stud[0])
 print('the students who were present are:')
-for i in range(len(list)):
-       print(list[i],end=" ")
+for i in range(len(k)):
+    print(k[i],end=" ")
 
 
 
